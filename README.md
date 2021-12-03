@@ -1,2 +1,2 @@
-# Random-Password-Generator
+# Random Password Generator
 A Random password Generator on C++
